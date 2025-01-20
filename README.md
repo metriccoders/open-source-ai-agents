@@ -5,7 +5,7 @@
 
 **Open-Source AI Agents** is a Python repository aimed at building the world's largest collection of open-source AI agents for various applications like Dropbox, Google Drive, Slack, and more. These AI agents use **Llama Index** and **OpenAI** models to perform intelligent actions that integrate seamlessly with a variety of services. The goal is to create an ecosystem where developers and users can easily integrate AI-powered agents into their workflows, automating tasks and boosting productivity.
 
-### Maintained by: [Metric Coders](https://github.com/Metric-Coders)
+### Maintained by: [Metric Coders](https://github.com/metriccoders)
 
 ---
 
@@ -51,5 +51,5 @@ To get started with **Open-Source AI Agents**, clone the repository and install 
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Metric-Coders/open-source-ai-agents.git
+git clone https://github.com/metriccoders/open-source-ai-agents.git
 cd open-source-ai-agents
