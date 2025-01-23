@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Open-Source AI Agents** is a Python repository aimed at building the world's largest collection of open-source AI agents for various applications like Dropbox, Google Drive, Slack, and more. These AI agents use **Llama Index** and **OpenAI** models to perform intelligent actions that integrate seamlessly with a variety of services. The goal is to create an ecosystem where developers and users can easily integrate AI-powered agents into their workflows, automating tasks and boosting productivity.
+**Open-Source AI Agents** is a Python repository aimed at building the world's largest collection of open-source AI agents for various applications like Dropbox, Notion, Google Drive, Slack, and more. These AI agents use **Llama Index** and **OpenAI** models to perform intelligent actions that integrate seamlessly with a variety of services. The goal is to create an ecosystem where developers and users can easily integrate AI-powered agents into their workflows, automating tasks and boosting productivity.
 
 ### Maintained by: [Metric Coders](https://github.com/metriccoders)
 
@@ -12,6 +12,7 @@
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
+- [Future](#future)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -36,13 +37,26 @@ The aim of this project is to build a comprehensive collection of AI agents that
 
 ## Features
 
-- **Integrations with Popular Applications**: Dropbox, Google Drive, Slack, and more.
+- **Integrations with Popular Applications**: Dropbox, Notion.
 - **Powered by OpenAI**: Summarize documents, generate responses, automate workflows.
 - **Llama Index for Advanced Document Processing**: Organize and manage documents easily.
 - **Open Source**: Contribute to the largest collection of AI agents for applications.
 - **Easy-to-Use**: Python-based library that can be easily extended with more integrations.
 
 ---
+
+## Future
+
+- **Integrations with Popular Applications**: Google Drive, Miro, Clickup, and many more.
+- **Powered by OpenAI**: Summarize documents, generate responses, automate workflows.
+- **Llama Index for Advanced Document Processing**: Organize and manage documents easily.
+- **Open Source**: Contribute to the largest collection of AI agents for applications.
+- **Easy-to-Use**: Python-based library that can be easily extended with more integrations.
+
+---
+
+## Contact
+- **Email** Contact me at suhas@metriccoders.com
 
 ## Installation
 
