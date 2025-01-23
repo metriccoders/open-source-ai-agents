@@ -14,10 +14,8 @@
 - [Features](#features)
 - [Future](#future)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
+- [Usage](#usage)
 
 ---
 
@@ -62,7 +60,7 @@ The aim of this project is to build a comprehensive collection of AI agents that
 
 To get started with **Open-Source AI Agents**, clone the repository and install the required dependencies.
 
-### Clone the Repository
+### Usage
 
 ```bash
 git clone https://github.com/metriccoders/open-source-ai-agents.git
